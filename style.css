@@ -189,7 +189,7 @@ footer {
 }
 
 a:visited {
- color: blue
+ color: blue;
 }
 
 @media all and (max-width: 750px) {
