@@ -188,6 +188,10 @@ footer {
   margin: 0 auto;
 }
 
+a:visited {
+ color: blue
+}
+
 @media all and (max-width: 750px) {
   .projects {
     grid-template-columns: repeat(1, 1fr);
